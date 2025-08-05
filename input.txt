@@ -1,0 +1,13 @@
+&input_parameters
+ny=256
+nz=256
+A=1.8
+Ly=2
+Lz=2
+Rm=10
+del_t=1e-2
+alpha_k=0.5
+linear_solver='BICGSTAB'
+pre_cond='ILU'
+res_tolerance=1e-5
+/
