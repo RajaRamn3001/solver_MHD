@@ -1,0 +1,2 @@
+/usr/bin/ar qc libarray_processes.a CMakeFiles/array_processes.dir/array_processes.f90.o
+/usr/bin/ranlib libarray_processes.a

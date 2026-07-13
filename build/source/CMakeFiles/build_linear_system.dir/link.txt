@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbuild_linear_system.a CMakeFiles/build_linear_system.dir/build_linear_system.f90.o
+/usr/bin/ranlib libbuild_linear_system.a
