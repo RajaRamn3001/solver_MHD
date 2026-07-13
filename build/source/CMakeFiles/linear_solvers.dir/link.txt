@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblinear_solvers.a CMakeFiles/linear_solvers.dir/linear_solvers.f90.o
+/usr/bin/ranlib liblinear_solvers.a

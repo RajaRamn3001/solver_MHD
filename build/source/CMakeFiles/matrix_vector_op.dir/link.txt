@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmatrix_vector_op.a CMakeFiles/matrix_vector_op.dir/matrix_vector_op.f90.o
+/usr/bin/ranlib libmatrix_vector_op.a

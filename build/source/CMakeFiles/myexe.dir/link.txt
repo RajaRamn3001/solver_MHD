@@ -1,0 +1,1 @@
+/opt/intel/oneapi/compiler/2025.2/bin/ifx CMakeFiles/myexe.dir/main_test.f90.o -o ../run/myexe  libread_input.a libgrid_generate.a libbuild_linear_system.a libmatrix_vector_op.a liblinear_solvers.a libgreen_function_sub.a libmatrix_vector_op.a libsymbolic_LU_op.a libbuild_linear_system.a libarray_processes.a 

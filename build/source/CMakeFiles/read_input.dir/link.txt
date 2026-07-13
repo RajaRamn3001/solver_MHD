@@ -1,0 +1,2 @@
+/usr/bin/ar qc libread_input.a CMakeFiles/read_input.dir/read_input.f90.o
+/usr/bin/ranlib libread_input.a

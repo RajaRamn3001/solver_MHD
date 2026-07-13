@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgreen_function_sub.a CMakeFiles/green_function_sub.dir/green_function_sub.f90.o
+/usr/bin/ranlib libgreen_function_sub.a

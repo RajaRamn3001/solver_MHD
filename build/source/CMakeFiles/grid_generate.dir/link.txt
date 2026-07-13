@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgrid_generate.a CMakeFiles/grid_generate.dir/grid_generate.f90.o
+/usr/bin/ranlib libgrid_generate.a
