@@ -1,0 +1,13 @@
+/home/raja/Documents/MTP_work/build/CMakeFiles/edit_cache.dir
+/home/raja/Documents/MTP_work/build/CMakeFiles/rebuild_cache.dir
+/home/raja/Documents/MTP_work/build/source/CMakeFiles/read_input.dir
+/home/raja/Documents/MTP_work/build/source/CMakeFiles/grid_generate.dir
+/home/raja/Documents/MTP_work/build/source/CMakeFiles/array_processes.dir
+/home/raja/Documents/MTP_work/build/source/CMakeFiles/build_linear_system.dir
+/home/raja/Documents/MTP_work/build/source/CMakeFiles/matrix_vector_op.dir
+/home/raja/Documents/MTP_work/build/source/CMakeFiles/linear_solvers.dir
+/home/raja/Documents/MTP_work/build/source/CMakeFiles/green_function_sub.dir
+/home/raja/Documents/MTP_work/build/source/CMakeFiles/symbolic_LU_op.dir
+/home/raja/Documents/MTP_work/build/source/CMakeFiles/myexe.dir
+/home/raja/Documents/MTP_work/build/source/CMakeFiles/edit_cache.dir
+/home/raja/Documents/MTP_work/build/source/CMakeFiles/rebuild_cache.dir
